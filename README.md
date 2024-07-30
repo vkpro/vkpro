@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Vladimir 👋 
+
+Senior Software Engineer with expertise in Automated Testing and Continuous Integration/Delivery.
+Over the years, my main responsibilities have included creating automated test frameworks, designing and implementing test cases, and improving the efficiency and reliability of the release and deployment process by developing CI/CD pipelines.
 
 <!--
 **vkpro/vkpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
