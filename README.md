@@ -4,7 +4,7 @@ Senior Software Engineer with expertise in Automated Testing and Continuous Inte
 Over the years, my main responsibilities have included creating automated test frameworks, designing and implementing test cases, and improving the efficiency and reliability of the release and deployment process by developing CI/CD pipelines.  
 In my professional work and on my personal projects, I utilize the following technologies and tools:
 - Test case automation (Java/Junit/Mockito)
-- Continious Integration and Delivery (Jenkins/Git/Docker/Sonar/Artifactory)
+- Continious Integration and Delivery (Jenkins/Docker/Kubernetes/GitOpts)
 - Automation tools (Bash/Python/Ansible/Maven/Gradle)
 - Rest API testing (RestAssured/Postman)
 - Web applications testing (Selenium WebDriver)
